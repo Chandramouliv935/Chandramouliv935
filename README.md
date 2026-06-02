@@ -1,231 +1,249 @@
-# Project Title
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0d1b4b&height=200&section=header&text=CHANDRAMOULI%20V&fontSize=48&fontColor=00fff9&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&descColor=bf91f3" width="100%"/>
 
-A brief description of what this project does and who it's for
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHANDRAMOULI%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2500&pause=800&color=00FFF9&center=true&vCenter=true&width=750&lines=%3E+AI+Engineer+%2F%2F+Loading...;%3E+FastAPI+Developer+%2F%2F+Initialized;%3E+Building+Production+Ready+Applications;%3E+Turning+Ideas+Into+Scalable+Solutions_%)](https://git.io/typing-svg)
 
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer;FastAPI+Developer;Building+Production+Ready+Applications;Turning+Ideas+Into+Scalable+Solutions"/>
-</h1>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chandramouliv935&label=Profile+Views&color=70A5FD&style=flat"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Chandramouliv935&color=00fff9&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## ◈ SYSTEM.INIT — About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
+# ╔══════════════════════════════════════╗
+# ║       CHANDRAMOULI.SYS v2025         ║
+# ╚══════════════════════════════════════╝
+
 class Chandramouli:
 
     def __init__(self):
-        self.name = "Chandramouli V"
-        self.location = "Puducherry, India"
-        self.degree = "B.Tech Computer & Communication Engineering"
-        
+        self.name      = "Chandramouli V"
+        self.location  = "Puducherry, India 🇮🇳"
+        self.degree    = "B.Tech CCE @ SMVEC (2023–2027)"
+
         self.stack = [
-            "Python",
-            "FastAPI",
-            "Java",
-            "SQL",
-            "HTML",
-            "CSS",
-            "Power BI",
-            "GitHub"
+            "Python", "FastAPI", "Java",
+            "SQL", "HTML", "CSS",
+            "Power BI", "GitHub"
         ]
 
-        self.currentlyLearning = [
-            "Machine Learning",
-            "LLMs",
-            "Cloud Computing",
-            "DevOps"
+        self.learning = [
+            "Machine Learning", "LLMs",
+            "Cloud Computing", "DevOps"
         ]
 
-        self.funFact = (
-            "I enjoy building AI systems that solve real-world problems."
+        self.fun_fact = (
+            "I build AI systems that solve "
+            "real-world problems 🤖"
         )
 
-    def motto(self):
-        return "Build. Learn. Improve. Repeat."
+    def motto(self) -> str:
+        return "Build. Learn. Improve. Repeat. 🔁"
+
+# >> STATUS: Online ✅
 ```
 
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-
-### Frameworks
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-
-### Cloud & DevOps
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-### Databases
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square\&logo=microsoftoffice\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+<br clear="right"/>
 
 ---
 
-# 📊 GitHub Analytics
+## ◈ TECH.STACK — Arsenal
+
+<div align="center">
+
+### `[ LANGUAGES ]`
+![Python](https://img.shields.io/badge/-%20Python%20-00fff9?style=for-the-badge&logo=python&logoColor=0d1117&labelColor=0d1b4b)
+![Java](https://img.shields.io/badge/-%20Java%20-bf91f3?style=for-the-badge&logo=openjdk&logoColor=0d1117&labelColor=0d1b4b)
+
+### `[ FRAMEWORKS ]`
+![FastAPI](https://img.shields.io/badge/-%20FastAPI%20-00fff9?style=for-the-badge&logo=fastapi&logoColor=0d1117&labelColor=0d1b4b)
+![Next.js](https://img.shields.io/badge/-%20Next.js%20-bf91f3?style=for-the-badge&logo=nextdotjs&logoColor=0d1117&labelColor=0d1b4b)
+
+### `[ CLOUD & DEVOPS ]`
+![GitHub](https://img.shields.io/badge/-%20GitHub%20-00fff9?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1b4b)
+![Docker](https://img.shields.io/badge/-%20Docker%20-bf91f3?style=for-the-badge&logo=docker&logoColor=0d1117&labelColor=0d1b4b)
+![Redis](https://img.shields.io/badge/-%20Redis%20-00d4ff?style=for-the-badge&logo=redis&logoColor=0d1117&labelColor=0d1b4b)
+
+### `[ DATABASES ]`
+![SQL](https://img.shields.io/badge/-%20SQL%20-00fff9?style=for-the-badge&logo=mysql&logoColor=0d1117&labelColor=0d1b4b)
+
+### `[ TOOLS ]`
+![Power BI](https://img.shields.io/badge/-%20Power%20BI%20-bf91f3?style=for-the-badge&logo=powerbi&logoColor=0d1117&labelColor=0d1b4b)
+![Git](https://img.shields.io/badge/-%20Git%20-00fff9?style=for-the-badge&logo=git&logoColor=0d1117&labelColor=0d1b4b)
+![MS Office](https://img.shields.io/badge/-%20MS%20Office%20-00d4ff?style=for-the-badge&logo=microsoftoffice&logoColor=0d1117&labelColor=0d1b4b)
+![n8n](https://img.shields.io/badge/-%20n8n%20-bf91f3?style=for-the-badge&logo=n8n&logoColor=0d1117&labelColor=0d1b4b)
+
+### `[ AI / LLMs ]`
+![LLMs](https://img.shields.io/badge/-%20LLMs%20-00fff9?style=for-the-badge&logo=openai&logoColor=0d1117&labelColor=0d1b4b)
+![LLaVA](https://img.shields.io/badge/-%20LLaVA%20-bf91f3?style=for-the-badge&logo=meta&logoColor=0d1117&labelColor=0d1b4b)
+
+</div>
+
+---
+
+## ◈ GITHUB.STATS — Diagnostics
 
 <div align="center">
 
 <a href="https://github.com/Chandramouliv935">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandramouliv935&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandramouliv935&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00fff9&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-
 <a href="https://github.com/Chandramouliv935">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramouliv935&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramouliv935&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## ◈ STREAK.PULSE — Continuity Log
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Chandramouliv935&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</p>
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chandramouliv935&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFF9&fire=BF91F3&currStreakLabel=00FFF9&sideLabels=00D4FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandramouliv935&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🏆 Trophy Wall
+## ◈ ACTIVITY.MAP — Neural Contributions
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chandramouliv935&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</p>
+<div align="center">
+
+[![Chandramouli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandramouliv935&theme=tokyo-night&bg_color=0d1117&color=00fff9&line=bf91f3&point=00d4ff&area=true&hide_border=true)](https://github.com/Chandramouliv935)
+
+</div>
 
 ---
 
-# 💼 Work Experience
+## ◈ TROPHY.VAULT — Unlocked
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chandramouliv935&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ◈ WORK.LOG — Experience
 
 <details>
-<summary><b>Student Developer | AI Projects | 2024 - Present | Puducherry, India</b></summary>
+<summary>⚡ <strong>Student Developer | AI Projects | 2024 – Present | Puducherry, India</strong></summary>
 
-> Python • FastAPI • LLMs • SQL • Power BI
+<br/>
 
-* Built intelligent applications focused on career guidance and civic issue management.
-* Developed AI-powered automation systems reducing manual effort by 60%.
-* Implemented secure authentication and scalable backend APIs.
-* Created analytical dashboards providing actionable business insights.
+> ![Python](https://img.shields.io/badge/-%20Python%20-00fff9?style=for-the-badge&logo=python&logoColor=0d1117&labelColor=0d1b4b)
+> ![FastAPI](https://img.shields.io/badge/-%20FastAPI%20-bf91f3?style=for-the-badge&logo=fastapi&logoColor=0d1117&labelColor=0d1b4b)
+> ![LLMs](https://img.shields.io/badge/-%20LLMs%20-00fff9?style=for-the-badge&logo=openai&logoColor=0d1117&labelColor=0d1b4b)
+> ![SQL](https://img.shields.io/badge/-%20SQL%20-00d4ff?style=for-the-badge&logo=mysql&logoColor=0d1117&labelColor=0d1b4b)
+> ![Power BI](https://img.shields.io/badge/-%20Power%20BI%20-bf91f3?style=for-the-badge&logo=powerbi&logoColor=0d1117&labelColor=0d1b4b)
+
+- ⚡ Built intelligent applications focused on career guidance and civic issue management.
+- 🤖 Developed AI-powered automation systems reducing manual effort by **60%**.
+- 🔐 Implemented secure JWT authentication and scalable backend APIs with FastAPI.
+- 📊 Created analytical dashboards providing actionable business insights via Power BI.
 
 </details>
 
 ---
 
-# 🚀 Featured Projects
+## ◈ PROJECT.MATRIX — Featured Builds
 
 <div align="center">
 
-| Project                              | Stack                               | Highlights                                                                                                                                |
-| ------------------------------------ | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Student Campus Training & Career Hub | FastAPI, n8n, LLMs, SQL             | Automated job trend analysis and learning roadmap generation. Reduced manual effort by **60%**. Improved ATS keyword matching by **40%**. |
-| AI-Powered Civic Pulse               | FastAPI, Next.js, Redis, JWT, LLaVA | Automated citizen issue reporting. Reduced municipal processing bottlenecks by **35%**. Implemented secure JWT authentication.            |
-| Netflix Power BI Dashboard           | Power BI, DAX                       | Interactive dashboard with KPIs, slicers, and filters. Delivered content strategy insights using advanced DAX measures.                   |
+| 🔷 Project | ⚙️ Stack | 🎯 Impact |
+|-----------|---------|----------|
+| **Student Campus Training & Career Hub** | FastAPI · n8n · LLMs · SQL | Automated job trend analysis; reduced manual effort by **60%**; improved ATS keyword matching by **40%** |
+| **AI-Powered Civic Pulse** | FastAPI · Next.js · Redis · JWT · LLaVA | Automated citizen issue reporting; reduced municipal processing bottlenecks by **35%**; secure JWT auth |
+| **Netflix Power BI Dashboard** | Power BI · DAX | Interactive KPI dashboard with slicers & filters; content strategy insights via advanced DAX measures |
 
 </div>
 
 ---
 
-# 🏅 Achievements
+## ◈ ACHIEVEMENT.LOG — Unlocked Badges
 
 <div align="center">
 
-| 🎖️   | Achievement          | Details                                                 |
-| ----- | -------------------- | ------------------------------------------------------- |
-| 🥈    | AI to GLOW Hackathon | Round 2 Finalist at VIT Bangalore                       |
-| 🚀    | Protothon Hackathon  | Shortlisted for Final Round                             |
-| 💡    | Zenithon Hackathon   | Active Participant                                      |
-| 👨‍💼 | Technical Leadership | Technical Project Lead for college software evaluations |
-| 📜    | NPTEL Certification  | Python for Data Science                                 |
-| 🏆    | IBM Certification    | IBM Python Certificate                                  |
+| ⚡ | Achievement | Details |
+|----|------------|---------|
+| 🥈 | **AI to GLOW Hackathon** | Round 2 Finalist — VIT Bangalore |
+| 🚀 | **Protothon Hackathon** | Shortlisted for Final Round |
+| 💡 | **Zenithon Hackathon** | Active Participant |
+| 👨‍💼 | **Technical Leadership** | Technical Project Lead for college software evaluations |
+| 📜 | **NPTEL Certification** | Python for Data Science |
+| 🏆 | **IBM Certification** | IBM Python Certificate |
 
 </div>
 
 ---
 
-# 🎓 Education
+## ◈ EDUCATION.DB — Academic Records
 
 <div align="center">
 
-| Degree                                      | Institution                                     | Year      | Score     |
-| ------------------------------------------- | ----------------------------------------------- | --------- | --------- |
-| B.Tech Computer & Communication Engineering | Sri Manakula Vinayagar Engineering College      | 2023-2027 | CGPA 8.61 |
-| Higher Secondary                            | Stansford International Higher Secondary School | 2023      | 80%       |
-| Secondary School                            | Stansford International Higher Secondary School | 2021      | 87.5%     |
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📈 Score |
+|----------|--------------|--------|---------|
+| B.Tech – Computer & Communication Engineering | Sri Manakula Vinayagar Engineering College | 2023–2027 | CGPA 8.61 |
+| Higher Secondary | Stansford International Higher Secondary School | 2023 | 80% |
+| Secondary School | Stansford International Higher Secondary School | 2021 | 87.5% |
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+## ◈ LEARNING.QUEUE — Downloading...
 
-```text
-📌 Machine Learning
-   → Supervised Learning
-   → Model Evaluation
+```
+>> INITIALIZING SKILL UPGRADES...
 
-📌 Large Language Models
-   → Prompt Engineering
-   → AI Agents
+[▓▓▓▓▓▓▓░░░]  Machine Learning
+               → Supervised Learning
+               → Model Evaluation & Tuning
 
-📌 Cloud Computing
-   → AWS Fundamentals
-   → Deployment Strategies
+[▓▓▓▓▓░░░░░]  Large Language Models
+               → Prompt Engineering
+               → AI Agents & Orchestration
 
-📌 DevOps
-   → CI/CD
-   → Docker
+[▓▓▓░░░░░░░]  Cloud Computing
+               → AWS Fundamentals
+               → Deployment Strategies
+
+[▓▓░░░░░░░░]  DevOps
+               → CI/CD Pipelines
+               → Docker & Containerization
+
+>> STATUS: LEARNING IN PROGRESS ⚡
 ```
 
 ---
 
-# 📫 Connect With Me
+## ◈ CONNECT.GRID — Find Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:chanrdramouliv935@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-%20Gmail%20-00fff9?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1b4b"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Chandramouliv935">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-%20GitHub%20-bf91f3?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1b4b"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/chandramouli-v-4b9382276">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-%20LinkedIn%20-00d4ff?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1b4b"/>
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a0533,100:0d0221&height=130&section=footer&animation=twinkling" width="100%"/>
