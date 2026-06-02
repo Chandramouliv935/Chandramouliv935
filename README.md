@@ -120,17 +120,6 @@ class Chandramouli:
 [![Chandramouli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandramouliv935&theme=tokyo-night&bg_color=0d1117&color=00fff9&line=bf91f3&point=00d4ff&area=true&hide_border=true)](https://github.com/Chandramouliv935)
 
 </div>
-
----
-
-## ◈ TROPHY.VAULT — Unlocked
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chandramouliv935&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## ◈ WORK.LOG — Experience
