@@ -91,14 +91,14 @@ class Chandramouli:
 ## ◈ GITHUB.STATS — Diagnostics
 
 <div align="center">
+  <a href="https://github.com/Chandramouliv935">
+  </a>
+  <a href="https://github.com/Chandramouliv935">
+  </a>
+</div>
 
-<a href="https://github.com/Chandramouliv935">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandramouliv935&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github"/>
-</a>
-<a href="https://github.com/Chandramouliv935">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramouliv935&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Chandramouliv935&cc=0d1117&tc=70a5fd&ic=bf91f3&bc=0d1117" alt="Chandramouli's GitHub Stats"/>
 </div>
 
 ---
