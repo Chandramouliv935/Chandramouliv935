@@ -93,7 +93,7 @@ class Chandramouli:
 <div align="center">
 
 <a href="https://github.com/Chandramouliv935">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandramouliv935&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00fff9&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandramouliv935&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github"/>
 </a>
 <a href="https://github.com/Chandramouliv935">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandramouliv935&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=8&border_radius=10"/>
@@ -107,7 +107,7 @@ class Chandramouli:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chandramouliv935&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFF9&fire=BF91F3&currStreakLabel=00FFF9&sideLabels=00D4FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chandramouliv935&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFF9&fire=BF91F3&currStreakLabel=00FFF9&sideLabels=00D4FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
 
 </div>
 
@@ -120,6 +120,17 @@ class Chandramouli:
 [![Chandramouli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandramouliv935&theme=tokyo-night&bg_color=0d1117&color=00fff9&line=bf91f3&point=00d4ff&area=true&hide_border=true)](https://github.com/Chandramouliv935)
 
 </div>
+
+---
+
+## ◈ TROPHY.VAULT — Unlocked
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chandramouliv935&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 ## ◈ WORK.LOG — Experience
